@@ -1,6 +1,6 @@
-import example.pepita
+import escuelaMagia.*
 
-describe "group of tests for pepita" {
+describe "tests escuela magia" {
 
   test "pepita has initial energy" {
     assert.equals(100, pepita.energy())
